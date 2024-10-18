@@ -102,13 +102,10 @@ Contributions to Fingerprint Glitch are welcome! To contribute to this project, 
 
 If you have any questions or feedback, please contact the project maintainers:
 
-* 0x_hayden
 * Email: cubedimension@protonmail.com
 ## Credits
 
-This project is maintained by:
 
-[<img src="https://avatars.githubusercontent.com/u/135024483?s=48&v=4" width="64" height="64" alt="Contributor Name">](https://github.com/code-glitchers)
 
 ### Contributors and Developers
 
